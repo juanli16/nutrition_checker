@@ -1,0 +1,7 @@
+[project]
+name = "nutrition-checker"
+version = "0.1.0"
+description = "nutrition-verse direct machine learning model"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
