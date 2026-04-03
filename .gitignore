@@ -1,3 +1,9 @@
+# data directory that contains huge datasets
+data/
+
+# macos
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
